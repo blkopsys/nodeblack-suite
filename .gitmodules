@@ -1,4 +1,4 @@
-[submodule "vxon/backend"]
-    path = vxon/backend
+[submodule "control/vxon/backend"]
+    path = control/vxon/backend
     url = https://github.com/blkopsys/vxon-suite.git
 
