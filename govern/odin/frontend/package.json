@@ -1,0 +1,22 @@
+﻿{
+    "name":  "frontend",
+    "version":  "1.0.0",
+    "main":  "index.js",
+    "scripts":  {
+                    "preview":  "vite preview",
+                    "build":  "vite build",
+                    "dev":  "vite"
+                },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "description":  "",
+    "devDependencies":  {
+                            "@vitejs/plugin-react":  "^4.7.0",
+                            "react":  "^19.1.1",
+                            "react-dom":  "^19.1.1",
+                            "vite":  "^7.0.6"
+                        }
+}
